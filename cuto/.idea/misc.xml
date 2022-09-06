@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable/buttongreen.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable/buttwhite.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable/email.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable/google.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable/log_back.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable/newback.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable/radvio.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/drawable/rectangle.xml" value="0.104" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/boume/AndroidStudioProjects/cuto/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
